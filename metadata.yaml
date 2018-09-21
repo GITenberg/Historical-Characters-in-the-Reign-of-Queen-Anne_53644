@@ -1,0 +1,35 @@
+_repo: Historical-Characters-in-the-Reign-of-Queen-Anne_53644
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oliphant, Mrs. (Margaret)
+    aliases:
+    - Mrs. (Margaret) Oliphant
+    - Olyphant, Mrs.
+    - Oliphant, M. O. W. (Margaret Oliphant Wilson)
+    - Oliphant, Margaret Oliphant Wilson
+    birthdate: 1828
+    deathdate: 1897
+    gutenberg_agent_id: '963'
+    url: http://www.gutenberg.org/2009/agents/963
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Oliphant_Oliphant
+description: ''
+gutenberg_issued: '2016-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53644'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Defoe, Daniel, 1661?-1731'
+- !lcsh 'Addison, Joseph, 1672-1719'
+- !lcsh 'Anne, Queen of Great Britain, 1665-1714'
+- !lcsh 'Swift, Jonathan, 1667-1745'
+- GITenberg
+tableOfContents: The Princess Anne -- The queen and the duchess -- The author of "Gulliver"
+  -- The author of "Robinson Crusoe" -- Addison, the humorist.
+title: Historical Characters in the Reign of Queen Anne
+url: http://www.gutenberg.org/ebooks/53644
